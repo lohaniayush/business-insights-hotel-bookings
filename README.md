@@ -49,6 +49,7 @@ Online travel platforms lose significant revenue due to high cancellation rates 
 
 ## 📁 Repository Structure
 /Business-Insights-Hotel-Bookings
+
 ├── Notebook_Ayush_Travclan_.ipynb          
 ├── Report_AyushLohani_TravClan.docx       
 ├── Charts_Ayush_Travclan.pptx            
